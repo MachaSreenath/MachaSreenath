@@ -30,21 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreenathmacha&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreenathmacha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenathmacha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
----
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
