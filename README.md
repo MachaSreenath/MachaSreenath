@@ -1,4 +1,15 @@
 <div align="center">
+  <a href="https://www.linkedin.com/in/sreenathmacha30" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://medium.com/@sreenath.macha" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sreenathmacha.sreenathmacha" alt="Visitors"/>
 </div>
 
